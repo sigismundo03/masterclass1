@@ -75,7 +75,8 @@ class IconeHomeWidget extends StatelessWidget {
                 gradient: LinearGradient(
                   colors: [
                     Color(0xFF3c66dc),
-                    Color(0xFF574dc8),
+                    Color(0xFF4d57d2),
+                    Color(0xFF544fcf),
                   ],
                   begin: Alignment(0, 0),
                   end: Alignment(0, 1),
